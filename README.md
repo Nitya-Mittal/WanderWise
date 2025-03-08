@@ -106,10 +106,8 @@ This project is licensed under the **MIT License** – free to use and modify!
 
 ## 📩 Contact & Support
 If you have any questions or suggestions, feel free to reach out!
-
-📧 **Email:** your-email@example.com  
-🐙 **GitHub:** [yourusername](https://github.com/yourusername)  
-📌 **LinkedIn:** [your-profile](https://linkedin.com/in/yourprofile)
+📧 **Email:** nityamittal.coding@gmail.com
+📌 **LinkedIn:** https://www.linkedin.com/in/nitya-mittal-3905262b7/
 
 ---
 
