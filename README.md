@@ -106,8 +106,8 @@ This project is licensed under the **MIT License** – free to use and modify!
 
 ## 📩 Contact & Support
 If you have any questions or suggestions, feel free to reach out!
-📧 **Email:** nityamittal.coding@gmail.com
-📌 **LinkedIn:** https://www.linkedin.com/in/nitya-mittal-3905262b7/
+📧 **Email:** nityamittal.coding@gmail.com  
+📌 **LinkedIn:** https://www.linkedin.com/in/nitya-mittal-b41a09246/
 
 ---
 
