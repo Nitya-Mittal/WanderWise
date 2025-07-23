@@ -1,50 +1,55 @@
-# Welcome to your Expo app 👋
+# 🌍 WanderWise — AI-Powered Travel Companion
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+WanderWise is an AI-driven travel planning application built using **React Native**, designed to simplify and enhance your travel experience. Whether you're a student planning a budget-friendly research trip or an explorer seeking intelligent suggestions, WanderWise has you covered.
 
-## Get started
 
-1. Install dependencies
 
-   ```bash
-   npm install
-   ```
+# 🚀 Features
 
-2. Start the app
+- 🎯 **AI-Powered Recommendations**  
+  Get smart destination suggestions based on your interests, budget, and travel history.
 
-   ```bash
-    npx expo start
-   ```
+- 🗺️ **Interactive Maps**  
+  Explore your itinerary visually with integrated maps for every step of your journey.
 
-In the output, you'll find options to open the app in a
+- 📅 **Seamless Itinerary Management**  
+  Add, edit, and organize your travel plans in a user-friendly interface.
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+- 🔁 **Real-Time Tracking & Updates**  
+  Stay updated with live data and AI-adjusted travel suggestions.
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+- 📱 **Cross-Platform Support**  
+  Developed using React Native + Expo for both Android and iOS devices.
 
-## Get a fresh project
+---
 
-When you're ready, run:
+# 💡 Use Case
+
+WanderWise is tailored especially for **students** and **budget travelers**, empowering them to:
+
+- 🧳 Plan trips efficiently with AI assistance
+- 💸 Stick to their travel budget with optimized suggestions
+- 🔍 Discover research destinations and local attractions
+- 🧠 Manage travel intuitively using a mobile-first approach
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend**: React Native, JavaScript, Expo
+- **Backend**: Firebase (Authentication & Firestore)
+- **APIs**: External travel, map, and AI APIs
+
+
+## 📦 Installation
 
 ```bash
-npm run reset-project
-```
+# Clone the repository
+git clone https://github.com/your-username/wanderwise.git
+cd wanderwise
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+# Install dependencies
+npm install
 
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+# Start the app with Expo
+npx expo start
